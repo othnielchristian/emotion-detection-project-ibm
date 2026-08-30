@@ -1,0 +1,8 @@
+pyproject.toml
+src/EmotionDetection/__init__.py
+src/EmotionDetection/emotion_detection.py
+src/EmotionDetection.egg-info/PKG-INFO
+src/EmotionDetection.egg-info/SOURCES.txt
+src/EmotionDetection.egg-info/dependency_links.txt
+src/EmotionDetection.egg-info/requires.txt
+src/EmotionDetection.egg-info/top_level.txt
