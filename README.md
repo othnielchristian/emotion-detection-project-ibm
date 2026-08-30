@@ -7,3 +7,11 @@ from EmotionDetection import emotion_detector
 result = emotion_detector("I hate working long hours.")
 print(result)
 `
+run the server:
+`
+python3 server.py
+`
+
+build the package:
+`
+python3 -m pip install build
