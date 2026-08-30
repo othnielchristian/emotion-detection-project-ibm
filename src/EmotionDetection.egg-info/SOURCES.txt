@@ -1,3 +1,4 @@
+README.md
 pyproject.toml
 src/EmotionDetection/__init__.py
 src/EmotionDetection/emotion_detection.py
