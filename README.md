@@ -15,3 +15,6 @@ python3 server.py
 build the package:
 `
 python3 -m pip install build
+python3 -m build
+python3 -m pip install --force-reinstall dist/*.whl
+`
