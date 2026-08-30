@@ -18,3 +18,9 @@ python3 -m pip install build
 python3 -m build
 python3 -m pip install --force-reinstall dist/*.whl
 `
+
+code analysis:
+`
+python3 -m pip install pylint
+pylint server.py
+`
